@@ -288,7 +288,7 @@ ul {
   margin-top: 6rem;
 }
 
-.ul-social-media {
+.li-social-media {
   display: flex;
   justify-content: center;
   margin-bottom: 2rem;
@@ -387,7 +387,7 @@ ul {
     grid-column: span 2;
   }
 
-  .ul-social-media {
+  .li-social-media {
     justify-content: left;
   }
 
